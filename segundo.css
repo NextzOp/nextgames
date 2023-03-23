@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.inicio{
+    background-color:#f70808;
+    color: aliceblue;
+
+ display: flex;
+ justify-content: space-around;
+
+}
+.logo{
+width: 50%;
+
+}
+.home{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+.descriçao{
+    background-image: linear-gradient(red,black);
+color: rgb(255, 255, 255);
+
+}
+.footer{
+    
+        background-color: rgb(5, 5, 5);
+        color: rgb(255, 255, 255);
+            }

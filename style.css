@@ -1,0 +1,55 @@
+*{ 
+
+margin: 0;
+padding: 0;
+}
+
+
+.inicio{ 
+    background-color:#f70808;
+    color: aliceblue;
+
+ display: flex;
+ justify-content: space-around;
+
+}
+.inicio-img{ 
+     width: 50%;
+}
+
+.inicio-item{ 
+
+
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+.inicio-item{ 
+
+
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+
+
+.imagens{
+background-image: linear-gradient(red,black);
+color: aliceblue;
+}
+.valorant{
+    width: 25%;
+}
+
+.lol{ width: 25%;}
+
+.rune{
+    width: 25%;
+}
+
+    .footer{
+background-color: black;
+color: white;
+    }
+    
+    
